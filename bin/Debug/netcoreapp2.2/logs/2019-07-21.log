@@ -574,3 +574,432 @@
 [2019-07-21 11:22:16][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 175.4878ms 500  
 [2019-07-21 11:22:16][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 175.4878ms 500  
 [2019-07-21 11:22:16][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 175.4878ms 500  
+[2019-07-21 11:36:02][Info] Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager User profile is available. Using 'C:\Users\sinan.tok\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+[2019-07-21 11:36:03][Info] Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager User profile is available. Using 'C:\Users\sinan.tok\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+[2019-07-21 11:36:04][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request starting HTTP/2.0 GET https://localhost:44387/api/values   
+[2019-07-21 11:36:04][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request starting HTTP/2.0 GET https://localhost:44387/api/values   
+[2019-07-21 11:36:04][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request starting HTTP/2.0 GET https://localhost:44387/api/values   
+[2019-07-21 11:36:04][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executing endpoint 'NetCoreELK.Controllers.ValuesController.Get (NetCoreELK)' 
+[2019-07-21 11:36:04][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executing endpoint 'NetCoreELK.Controllers.ValuesController.Get (NetCoreELK)' 
+[2019-07-21 11:36:04][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executing endpoint 'NetCoreELK.Controllers.ValuesController.Get (NetCoreELK)' 
+[2019-07-21 11:36:04][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Route matched with {action = "Get", controller = "Values"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[System.String]] Get() on controller NetCoreELK.Controllers.ValuesController (NetCoreELK). 
+[2019-07-21 11:36:04][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Route matched with {action = "Get", controller = "Values"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[System.String]] Get() on controller NetCoreELK.Controllers.ValuesController (NetCoreELK). 
+[2019-07-21 11:36:04][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Route matched with {action = "Get", controller = "Values"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[System.String]] Get() on controller NetCoreELK.Controllers.ValuesController (NetCoreELK). 
+[2019-07-21 11:36:04][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executing action method NetCoreELK.Controllers.ValuesController.Get (NetCoreELK) - Validation state: Valid 
+[2019-07-21 11:36:04][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executing action method NetCoreELK.Controllers.ValuesController.Get (NetCoreELK) - Validation state: Valid 
+[2019-07-21 11:36:04][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executing action method NetCoreELK.Controllers.ValuesController.Get (NetCoreELK) - Validation state: Valid 
+[2019-07-21 11:36:04][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action method NetCoreELK.Controllers.ValuesController.Get (NetCoreELK), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.4443ms. 
+[2019-07-21 11:36:04][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action method NetCoreELK.Controllers.ValuesController.Get (NetCoreELK), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.4443ms. 
+[2019-07-21 11:36:04][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action method NetCoreELK.Controllers.ValuesController.Get (NetCoreELK), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.4443ms. 
+[2019-07-21 11:36:04][Info] Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor Executing ObjectResult, writing value of type 'System.String[]'. 
+[2019-07-21 11:36:04][Info] Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor Executing ObjectResult, writing value of type 'System.String[]'. 
+[2019-07-21 11:36:04][Info] Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor Executing ObjectResult, writing value of type 'System.String[]'. 
+[2019-07-21 11:36:04][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action NetCoreELK.Controllers.ValuesController.Get (NetCoreELK) in 206.1142ms 
+[2019-07-21 11:36:04][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action NetCoreELK.Controllers.ValuesController.Get (NetCoreELK) in 206.1142ms 
+[2019-07-21 11:36:04][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action NetCoreELK.Controllers.ValuesController.Get (NetCoreELK) in 206.1142ms 
+[2019-07-21 11:36:04][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executed endpoint 'NetCoreELK.Controllers.ValuesController.Get (NetCoreELK)' 
+[2019-07-21 11:36:04][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executed endpoint 'NetCoreELK.Controllers.ValuesController.Get (NetCoreELK)' 
+[2019-07-21 11:36:04][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executed endpoint 'NetCoreELK.Controllers.ValuesController.Get (NetCoreELK)' 
+[2019-07-21 11:36:04][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 355.683ms 200 application/json; charset=utf-8 
+[2019-07-21 11:36:04][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 355.683ms 200 application/json; charset=utf-8 
+[2019-07-21 11:36:04][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 355.683ms 200 application/json; charset=utf-8 
+[2019-07-21 11:36:04][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request starting HTTP/2.0 GET https://localhost:44387/favicon.ico   
+[2019-07-21 11:36:04][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request starting HTTP/2.0 GET https://localhost:44387/favicon.ico   
+[2019-07-21 11:36:04][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request starting HTTP/2.0 GET https://localhost:44387/favicon.ico   
+[2019-07-21 11:36:04][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 6.075ms 404  
+[2019-07-21 11:36:04][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 6.075ms 404  
+[2019-07-21 11:36:04][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 6.075ms 404  
+[2019-07-21 11:36:10][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request starting HTTP/2.0 GET https://localhost:44387/api/log/Res   
+[2019-07-21 11:36:10][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request starting HTTP/2.0 GET https://localhost:44387/api/log/Res   
+[2019-07-21 11:36:10][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request starting HTTP/2.0 GET https://localhost:44387/api/log/Res   
+[2019-07-21 11:36:10][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executing endpoint 'NetCoreELK.Controllers.LogController.Res (NetCoreELK)' 
+[2019-07-21 11:36:10][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executing endpoint 'NetCoreELK.Controllers.LogController.Res (NetCoreELK)' 
+[2019-07-21 11:36:10][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executing endpoint 'NetCoreELK.Controllers.LogController.Res (NetCoreELK)' 
+[2019-07-21 11:36:10][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Route matched with {action = "Res", controller = "Log"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Res() on controller NetCoreELK.Controllers.LogController (NetCoreELK). 
+[2019-07-21 11:36:10][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Route matched with {action = "Res", controller = "Log"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Res() on controller NetCoreELK.Controllers.LogController (NetCoreELK). 
+[2019-07-21 11:36:10][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Route matched with {action = "Res", controller = "Log"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Res() on controller NetCoreELK.Controllers.LogController (NetCoreELK). 
+[2019-07-21 11:36:10][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executing action method NetCoreELK.Controllers.LogController.Res (NetCoreELK) - Validation state: Valid 
+[2019-07-21 11:36:10][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executing action method NetCoreELK.Controllers.LogController.Res (NetCoreELK) - Validation state: Valid 
+[2019-07-21 11:36:10][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executing action method NetCoreELK.Controllers.LogController.Res (NetCoreELK) - Validation state: Valid 
+[2019-07-21 11:36:10][Error] NetCoreELK.Controllers.LogController Error System.Exception: Exception of type 'System.Exception' was thrown.
+[2019-07-21 11:36:10][Error] NetCoreELK.Controllers.LogController Error System.Exception: Exception of type 'System.Exception' was thrown.
+[2019-07-21 11:36:10][Error] NetCoreELK.Controllers.LogController Error System.Exception: Exception of type 'System.Exception' was thrown.
+[2019-07-21 11:36:10][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action NetCoreELK.Controllers.LogController.Res (NetCoreELK) in 29.5079ms 
+[2019-07-21 11:36:10][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action NetCoreELK.Controllers.LogController.Res (NetCoreELK) in 29.5079ms 
+[2019-07-21 11:36:10][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action NetCoreELK.Controllers.LogController.Res (NetCoreELK) in 29.5079ms 
+[2019-07-21 11:36:10][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executed endpoint 'NetCoreELK.Controllers.LogController.Res (NetCoreELK)' 
+[2019-07-21 11:36:10][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executed endpoint 'NetCoreELK.Controllers.LogController.Res (NetCoreELK)' 
+[2019-07-21 11:36:10][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executed endpoint 'NetCoreELK.Controllers.LogController.Res (NetCoreELK)' 
+[2019-07-21 11:36:10][Error] Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware An unhandled exception has occurred while executing the request. System.InvalidOperationException: Cannot return null from an action method with a return type of 'Microsoft.AspNetCore.Mvc.IActionResult'.
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.EnsureActionResultNotNull(ObjectMethodExecutor executor, IActionResult actionResult)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.Invoke(HttpContext context)
+[2019-07-21 11:36:10][Error] Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware An unhandled exception has occurred while executing the request. System.InvalidOperationException: Cannot return null from an action method with a return type of 'Microsoft.AspNetCore.Mvc.IActionResult'.
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.EnsureActionResultNotNull(ObjectMethodExecutor executor, IActionResult actionResult)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.Invoke(HttpContext context)
+[2019-07-21 11:36:10][Error] Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware An unhandled exception has occurred while executing the request. System.InvalidOperationException: Cannot return null from an action method with a return type of 'Microsoft.AspNetCore.Mvc.IActionResult'.
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.EnsureActionResultNotNull(ObjectMethodExecutor executor, IActionResult actionResult)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.Invoke(HttpContext context)
+[2019-07-21 11:36:10][Error] NetCoreELK.Startup Sometings is wrong ! System.InvalidOperationException: Cannot return null from an action method with a return type of 'Microsoft.AspNetCore.Mvc.IActionResult'.
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.EnsureActionResultNotNull(ObjectMethodExecutor executor, IActionResult actionResult)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.Invoke(HttpContext context) 
+[2019-07-21 11:36:10][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 205.1426ms 500  
+[2019-07-21 11:36:10][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 205.1426ms 500  
+[2019-07-21 11:36:10][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 205.1426ms 500  
+[2019-07-21 11:36:23][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request starting HTTP/2.0 GET https://localhost:44387/api/log/Info   
+[2019-07-21 11:36:23][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request starting HTTP/2.0 GET https://localhost:44387/api/log/Info   
+[2019-07-21 11:36:23][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request starting HTTP/2.0 GET https://localhost:44387/api/log/Info   
+[2019-07-21 11:36:23][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executing endpoint 'NetCoreELK.Controllers.LogController.Index (NetCoreELK)' 
+[2019-07-21 11:36:23][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executing endpoint 'NetCoreELK.Controllers.LogController.Index (NetCoreELK)' 
+[2019-07-21 11:36:23][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executing endpoint 'NetCoreELK.Controllers.LogController.Index (NetCoreELK)' 
+[2019-07-21 11:36:23][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Route matched with {action = "Index", controller = "Log"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller NetCoreELK.Controllers.LogController (NetCoreELK). 
+[2019-07-21 11:36:23][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Route matched with {action = "Index", controller = "Log"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller NetCoreELK.Controllers.LogController (NetCoreELK). 
+[2019-07-21 11:36:23][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Route matched with {action = "Index", controller = "Log"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller NetCoreELK.Controllers.LogController (NetCoreELK). 
+[2019-07-21 11:36:23][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executing action method NetCoreELK.Controllers.LogController.Index (NetCoreELK) - Validation state: Valid 
+[2019-07-21 11:36:23][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executing action method NetCoreELK.Controllers.LogController.Index (NetCoreELK) - Validation state: Valid 
+[2019-07-21 11:36:23][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executing action method NetCoreELK.Controllers.LogController.Index (NetCoreELK) - Validation state: Valid 
+[2019-07-21 11:36:23][Info] NetCoreELK.Controllers.LogController Somethinks went wrong 
+[2019-07-21 11:36:23][Info] NetCoreELK.Controllers.LogController Somethinks went wrong 
+[2019-07-21 11:36:23][Info] NetCoreELK.Controllers.LogController Somethinks went wrong 
+[2019-07-21 11:36:23][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action NetCoreELK.Controllers.LogController.Index (NetCoreELK) in 23.5782ms 
+[2019-07-21 11:36:23][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action NetCoreELK.Controllers.LogController.Index (NetCoreELK) in 23.5782ms 
+[2019-07-21 11:36:23][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action NetCoreELK.Controllers.LogController.Index (NetCoreELK) in 23.5782ms 
+[2019-07-21 11:36:23][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executed endpoint 'NetCoreELK.Controllers.LogController.Index (NetCoreELK)' 
+[2019-07-21 11:36:23][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executed endpoint 'NetCoreELK.Controllers.LogController.Index (NetCoreELK)' 
+[2019-07-21 11:36:23][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executed endpoint 'NetCoreELK.Controllers.LogController.Index (NetCoreELK)' 
+[2019-07-21 11:36:23][Error] Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware An unhandled exception has occurred while executing the request. System.InvalidOperationException: Cannot return null from an action method with a return type of 'Microsoft.AspNetCore.Mvc.IActionResult'.
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.EnsureActionResultNotNull(ObjectMethodExecutor executor, IActionResult actionResult)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.Invoke(HttpContext context)
+[2019-07-21 11:36:23][Error] Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware An unhandled exception has occurred while executing the request. System.InvalidOperationException: Cannot return null from an action method with a return type of 'Microsoft.AspNetCore.Mvc.IActionResult'.
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.EnsureActionResultNotNull(ObjectMethodExecutor executor, IActionResult actionResult)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.Invoke(HttpContext context)
+[2019-07-21 11:36:23][Error] Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware An unhandled exception has occurred while executing the request. System.InvalidOperationException: Cannot return null from an action method with a return type of 'Microsoft.AspNetCore.Mvc.IActionResult'.
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.EnsureActionResultNotNull(ObjectMethodExecutor executor, IActionResult actionResult)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.Invoke(HttpContext context)
+[2019-07-21 11:36:23][Error] NetCoreELK.Startup Sometings is wrong ! System.InvalidOperationException: Cannot return null from an action method with a return type of 'Microsoft.AspNetCore.Mvc.IActionResult'.
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.EnsureActionResultNotNull(ObjectMethodExecutor executor, IActionResult actionResult)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.Invoke(HttpContext context) 
+[2019-07-21 11:36:23][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 74.2984ms 500  
+[2019-07-21 11:36:23][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 74.2984ms 500  
+[2019-07-21 11:36:23][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 74.2984ms 500  
+[2019-07-21 11:36:25][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request starting HTTP/2.0 GET https://localhost:44387/api/log/Info   
+[2019-07-21 11:36:25][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request starting HTTP/2.0 GET https://localhost:44387/api/log/Info   
+[2019-07-21 11:36:25][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request starting HTTP/2.0 GET https://localhost:44387/api/log/Info   
+[2019-07-21 11:36:25][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executing endpoint 'NetCoreELK.Controllers.LogController.Index (NetCoreELK)' 
+[2019-07-21 11:36:25][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executing endpoint 'NetCoreELK.Controllers.LogController.Index (NetCoreELK)' 
+[2019-07-21 11:36:25][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executing endpoint 'NetCoreELK.Controllers.LogController.Index (NetCoreELK)' 
+[2019-07-21 11:36:25][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Route matched with {action = "Index", controller = "Log"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller NetCoreELK.Controllers.LogController (NetCoreELK). 
+[2019-07-21 11:36:25][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Route matched with {action = "Index", controller = "Log"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller NetCoreELK.Controllers.LogController (NetCoreELK). 
+[2019-07-21 11:36:25][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Route matched with {action = "Index", controller = "Log"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller NetCoreELK.Controllers.LogController (NetCoreELK). 
+[2019-07-21 11:36:25][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executing action method NetCoreELK.Controllers.LogController.Index (NetCoreELK) - Validation state: Valid 
+[2019-07-21 11:36:25][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executing action method NetCoreELK.Controllers.LogController.Index (NetCoreELK) - Validation state: Valid 
+[2019-07-21 11:36:25][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executing action method NetCoreELK.Controllers.LogController.Index (NetCoreELK) - Validation state: Valid 
+[2019-07-21 11:36:25][Info] NetCoreELK.Controllers.LogController Somethinks went wrong 
+[2019-07-21 11:36:25][Info] NetCoreELK.Controllers.LogController Somethinks went wrong 
+[2019-07-21 11:36:25][Info] NetCoreELK.Controllers.LogController Somethinks went wrong 
+[2019-07-21 11:36:25][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action NetCoreELK.Controllers.LogController.Index (NetCoreELK) in 14.6218ms 
+[2019-07-21 11:36:25][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action NetCoreELK.Controllers.LogController.Index (NetCoreELK) in 14.6218ms 
+[2019-07-21 11:36:25][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action NetCoreELK.Controllers.LogController.Index (NetCoreELK) in 14.6218ms 
+[2019-07-21 11:36:25][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executed endpoint 'NetCoreELK.Controllers.LogController.Index (NetCoreELK)' 
+[2019-07-21 11:36:25][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executed endpoint 'NetCoreELK.Controllers.LogController.Index (NetCoreELK)' 
+[2019-07-21 11:36:25][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executed endpoint 'NetCoreELK.Controllers.LogController.Index (NetCoreELK)' 
+[2019-07-21 11:36:25][Error] Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware An unhandled exception has occurred while executing the request. System.InvalidOperationException: Cannot return null from an action method with a return type of 'Microsoft.AspNetCore.Mvc.IActionResult'.
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.EnsureActionResultNotNull(ObjectMethodExecutor executor, IActionResult actionResult)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.Invoke(HttpContext context)
+[2019-07-21 11:36:25][Error] Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware An unhandled exception has occurred while executing the request. System.InvalidOperationException: Cannot return null from an action method with a return type of 'Microsoft.AspNetCore.Mvc.IActionResult'.
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.EnsureActionResultNotNull(ObjectMethodExecutor executor, IActionResult actionResult)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.Invoke(HttpContext context)
+[2019-07-21 11:36:25][Error] Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware An unhandled exception has occurred while executing the request. System.InvalidOperationException: Cannot return null from an action method with a return type of 'Microsoft.AspNetCore.Mvc.IActionResult'.
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.EnsureActionResultNotNull(ObjectMethodExecutor executor, IActionResult actionResult)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.Invoke(HttpContext context)
+[2019-07-21 11:36:25][Error] NetCoreELK.Startup Sometings is wrong ! System.InvalidOperationException: Cannot return null from an action method with a return type of 'Microsoft.AspNetCore.Mvc.IActionResult'.
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.EnsureActionResultNotNull(ObjectMethodExecutor executor, IActionResult actionResult)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.Invoke(HttpContext context) 
+[2019-07-21 11:36:25][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 52.091ms 500  
+[2019-07-21 11:36:25][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 52.091ms 500  
+[2019-07-21 11:36:25][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 52.091ms 500  
+[2019-07-21 11:37:45][Info] Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager User profile is available. Using 'C:\Users\sinan.tok\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+[2019-07-21 11:37:45][Info] Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager User profile is available. Using 'C:\Users\sinan.tok\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+[2019-07-21 11:37:47][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request starting HTTP/2.0 GET https://localhost:44387/api/values   
+[2019-07-21 11:37:47][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request starting HTTP/2.0 GET https://localhost:44387/api/values   
+[2019-07-21 11:37:47][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request starting HTTP/2.0 GET https://localhost:44387/api/values   
+[2019-07-21 11:37:47][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executing endpoint 'NetCoreELK.Controllers.ValuesController.Get (NetCoreELK)' 
+[2019-07-21 11:37:47][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executing endpoint 'NetCoreELK.Controllers.ValuesController.Get (NetCoreELK)' 
+[2019-07-21 11:37:47][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executing endpoint 'NetCoreELK.Controllers.ValuesController.Get (NetCoreELK)' 
+[2019-07-21 11:37:47][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Route matched with {action = "Get", controller = "Values"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[System.String]] Get() on controller NetCoreELK.Controllers.ValuesController (NetCoreELK). 
+[2019-07-21 11:37:47][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Route matched with {action = "Get", controller = "Values"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[System.String]] Get() on controller NetCoreELK.Controllers.ValuesController (NetCoreELK). 
+[2019-07-21 11:37:47][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Route matched with {action = "Get", controller = "Values"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[System.String]] Get() on controller NetCoreELK.Controllers.ValuesController (NetCoreELK). 
+[2019-07-21 11:37:47][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executing action method NetCoreELK.Controllers.ValuesController.Get (NetCoreELK) - Validation state: Valid 
+[2019-07-21 11:37:47][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executing action method NetCoreELK.Controllers.ValuesController.Get (NetCoreELK) - Validation state: Valid 
+[2019-07-21 11:37:47][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executing action method NetCoreELK.Controllers.ValuesController.Get (NetCoreELK) - Validation state: Valid 
+[2019-07-21 11:37:47][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action method NetCoreELK.Controllers.ValuesController.Get (NetCoreELK), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.3345ms. 
+[2019-07-21 11:37:47][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action method NetCoreELK.Controllers.ValuesController.Get (NetCoreELK), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.3345ms. 
+[2019-07-21 11:37:47][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action method NetCoreELK.Controllers.ValuesController.Get (NetCoreELK), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.3345ms. 
+[2019-07-21 11:37:47][Info] Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor Executing ObjectResult, writing value of type 'System.String[]'. 
+[2019-07-21 11:37:47][Info] Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor Executing ObjectResult, writing value of type 'System.String[]'. 
+[2019-07-21 11:37:47][Info] Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor Executing ObjectResult, writing value of type 'System.String[]'. 
+[2019-07-21 11:37:47][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action NetCoreELK.Controllers.ValuesController.Get (NetCoreELK) in 312.0753ms 
+[2019-07-21 11:37:47][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action NetCoreELK.Controllers.ValuesController.Get (NetCoreELK) in 312.0753ms 
+[2019-07-21 11:37:47][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action NetCoreELK.Controllers.ValuesController.Get (NetCoreELK) in 312.0753ms 
+[2019-07-21 11:37:47][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executed endpoint 'NetCoreELK.Controllers.ValuesController.Get (NetCoreELK)' 
+[2019-07-21 11:37:47][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executed endpoint 'NetCoreELK.Controllers.ValuesController.Get (NetCoreELK)' 
+[2019-07-21 11:37:47][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executed endpoint 'NetCoreELK.Controllers.ValuesController.Get (NetCoreELK)' 
+[2019-07-21 11:37:47][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 530.5648ms 200 application/json; charset=utf-8 
+[2019-07-21 11:37:47][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 530.5648ms 200 application/json; charset=utf-8 
+[2019-07-21 11:37:47][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 530.5648ms 200 application/json; charset=utf-8 
+[2019-07-21 11:37:47][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request starting HTTP/2.0 GET https://localhost:44387/favicon.ico   
+[2019-07-21 11:37:47][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request starting HTTP/2.0 GET https://localhost:44387/favicon.ico   
+[2019-07-21 11:37:47][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request starting HTTP/2.0 GET https://localhost:44387/favicon.ico   
+[2019-07-21 11:37:47][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 8.8474ms 404  
+[2019-07-21 11:37:47][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 8.8474ms 404  
+[2019-07-21 11:37:47][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 8.8474ms 404  
+[2019-07-21 11:37:57][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request starting HTTP/2.0 GET https://localhost:44387/api/log/Info   
+[2019-07-21 11:37:57][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request starting HTTP/2.0 GET https://localhost:44387/api/log/Info   
+[2019-07-21 11:37:57][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request starting HTTP/2.0 GET https://localhost:44387/api/log/Info   
+[2019-07-21 11:37:57][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executing endpoint 'NetCoreELK.Controllers.LogController.Index (NetCoreELK)' 
+[2019-07-21 11:37:57][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executing endpoint 'NetCoreELK.Controllers.LogController.Index (NetCoreELK)' 
+[2019-07-21 11:37:57][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executing endpoint 'NetCoreELK.Controllers.LogController.Index (NetCoreELK)' 
+[2019-07-21 11:37:57][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Route matched with {action = "Index", controller = "Log"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller NetCoreELK.Controllers.LogController (NetCoreELK). 
+[2019-07-21 11:37:57][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Route matched with {action = "Index", controller = "Log"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller NetCoreELK.Controllers.LogController (NetCoreELK). 
+[2019-07-21 11:37:57][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Route matched with {action = "Index", controller = "Log"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller NetCoreELK.Controllers.LogController (NetCoreELK). 
+[2019-07-21 11:37:57][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executing action method NetCoreELK.Controllers.LogController.Index (NetCoreELK) - Validation state: Valid 
+[2019-07-21 11:37:57][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executing action method NetCoreELK.Controllers.LogController.Index (NetCoreELK) - Validation state: Valid 
+[2019-07-21 11:37:57][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executing action method NetCoreELK.Controllers.LogController.Index (NetCoreELK) - Validation state: Valid 
+[2019-07-21 11:37:57][Info] NetCoreELK.Controllers.LogController Somethinks went wrong 
+[2019-07-21 11:37:57][Info] NetCoreELK.Controllers.LogController Somethinks went wrong 
+[2019-07-21 11:37:57][Info] NetCoreELK.Controllers.LogController Somethinks went wrong 
+[2019-07-21 11:37:57][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action method NetCoreELK.Controllers.LogController.Index (NetCoreELK), returned result Microsoft.AspNetCore.Mvc.StatusCodeResult in 10.9532ms. 
+[2019-07-21 11:37:57][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action method NetCoreELK.Controllers.LogController.Index (NetCoreELK), returned result Microsoft.AspNetCore.Mvc.StatusCodeResult in 10.9532ms. 
+[2019-07-21 11:37:57][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action method NetCoreELK.Controllers.LogController.Index (NetCoreELK), returned result Microsoft.AspNetCore.Mvc.StatusCodeResult in 10.9532ms. 
+[2019-07-21 11:37:57][Info] Microsoft.AspNetCore.Mvc.StatusCodeResult Executing HttpStatusCodeResult, setting HTTP status code 202 
+[2019-07-21 11:37:57][Info] Microsoft.AspNetCore.Mvc.StatusCodeResult Executing HttpStatusCodeResult, setting HTTP status code 202 
+[2019-07-21 11:37:57][Info] Microsoft.AspNetCore.Mvc.StatusCodeResult Executing HttpStatusCodeResult, setting HTTP status code 202 
+[2019-07-21 11:37:57][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action NetCoreELK.Controllers.LogController.Index (NetCoreELK) in 51.3348ms 
+[2019-07-21 11:37:57][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action NetCoreELK.Controllers.LogController.Index (NetCoreELK) in 51.3348ms 
+[2019-07-21 11:37:57][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action NetCoreELK.Controllers.LogController.Index (NetCoreELK) in 51.3348ms 
+[2019-07-21 11:37:57][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executed endpoint 'NetCoreELK.Controllers.LogController.Index (NetCoreELK)' 
+[2019-07-21 11:37:57][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executed endpoint 'NetCoreELK.Controllers.LogController.Index (NetCoreELK)' 
+[2019-07-21 11:37:57][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executed endpoint 'NetCoreELK.Controllers.LogController.Index (NetCoreELK)' 
+[2019-07-21 11:37:57][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 102.3892ms 202  
+[2019-07-21 11:37:57][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 102.3892ms 202  
+[2019-07-21 11:37:57][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 102.3892ms 202  
+[2019-07-21 11:39:09][Info] Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager User profile is available. Using 'C:\Users\sinan.tok\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+[2019-07-21 11:39:09][Info] Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager User profile is available. Using 'C:\Users\sinan.tok\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+[2019-07-21 11:39:10][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request starting HTTP/2.0 GET https://localhost:44387/api/values   
+[2019-07-21 11:39:10][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request starting HTTP/2.0 GET https://localhost:44387/api/values   
+[2019-07-21 11:39:10][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request starting HTTP/2.0 GET https://localhost:44387/api/values   
+[2019-07-21 11:39:10][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executing endpoint 'NetCoreELK.Controllers.ValuesController.Get (NetCoreELK)' 
+[2019-07-21 11:39:10][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executing endpoint 'NetCoreELK.Controllers.ValuesController.Get (NetCoreELK)' 
+[2019-07-21 11:39:10][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executing endpoint 'NetCoreELK.Controllers.ValuesController.Get (NetCoreELK)' 
+[2019-07-21 11:39:10][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Route matched with {action = "Get", controller = "Values"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[System.String]] Get() on controller NetCoreELK.Controllers.ValuesController (NetCoreELK). 
+[2019-07-21 11:39:10][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Route matched with {action = "Get", controller = "Values"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[System.String]] Get() on controller NetCoreELK.Controllers.ValuesController (NetCoreELK). 
+[2019-07-21 11:39:10][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Route matched with {action = "Get", controller = "Values"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[System.String]] Get() on controller NetCoreELK.Controllers.ValuesController (NetCoreELK). 
+[2019-07-21 11:39:10][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executing action method NetCoreELK.Controllers.ValuesController.Get (NetCoreELK) - Validation state: Valid 
+[2019-07-21 11:39:10][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executing action method NetCoreELK.Controllers.ValuesController.Get (NetCoreELK) - Validation state: Valid 
+[2019-07-21 11:39:10][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executing action method NetCoreELK.Controllers.ValuesController.Get (NetCoreELK) - Validation state: Valid 
+[2019-07-21 11:39:10][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action method NetCoreELK.Controllers.ValuesController.Get (NetCoreELK), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.4994ms. 
+[2019-07-21 11:39:10][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action method NetCoreELK.Controllers.ValuesController.Get (NetCoreELK), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.4994ms. 
+[2019-07-21 11:39:10][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action method NetCoreELK.Controllers.ValuesController.Get (NetCoreELK), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.4994ms. 
+[2019-07-21 11:39:10][Info] Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor Executing ObjectResult, writing value of type 'System.String[]'. 
+[2019-07-21 11:39:10][Info] Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor Executing ObjectResult, writing value of type 'System.String[]'. 
+[2019-07-21 11:39:10][Info] Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor Executing ObjectResult, writing value of type 'System.String[]'. 
+[2019-07-21 11:39:11][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action NetCoreELK.Controllers.ValuesController.Get (NetCoreELK) in 355.0739ms 
+[2019-07-21 11:39:11][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action NetCoreELK.Controllers.ValuesController.Get (NetCoreELK) in 355.0739ms 
+[2019-07-21 11:39:11][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action NetCoreELK.Controllers.ValuesController.Get (NetCoreELK) in 355.0739ms 
+[2019-07-21 11:39:11][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executed endpoint 'NetCoreELK.Controllers.ValuesController.Get (NetCoreELK)' 
+[2019-07-21 11:39:11][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executed endpoint 'NetCoreELK.Controllers.ValuesController.Get (NetCoreELK)' 
+[2019-07-21 11:39:11][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executed endpoint 'NetCoreELK.Controllers.ValuesController.Get (NetCoreELK)' 
+[2019-07-21 11:39:11][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 587.796ms 200 application/json; charset=utf-8 
+[2019-07-21 11:39:11][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 587.796ms 200 application/json; charset=utf-8 
+[2019-07-21 11:39:11][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 587.796ms 200 application/json; charset=utf-8 
+[2019-07-21 11:39:11][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request starting HTTP/2.0 GET https://localhost:44387/favicon.ico   
+[2019-07-21 11:39:11][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request starting HTTP/2.0 GET https://localhost:44387/favicon.ico   
+[2019-07-21 11:39:11][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request starting HTTP/2.0 GET https://localhost:44387/favicon.ico   
+[2019-07-21 11:39:11][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 6.9969ms 404  
+[2019-07-21 11:39:11][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 6.9969ms 404  
+[2019-07-21 11:39:11][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 6.9969ms 404  
+[2019-07-21 11:39:15][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request starting HTTP/2.0 GET https://localhost:44387/api/log/Info   
+[2019-07-21 11:39:15][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request starting HTTP/2.0 GET https://localhost:44387/api/log/Info   
+[2019-07-21 11:39:15][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request starting HTTP/2.0 GET https://localhost:44387/api/log/Info   
+[2019-07-21 11:39:15][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executing endpoint 'NetCoreELK.Controllers.LogController.Index (NetCoreELK)' 
+[2019-07-21 11:39:15][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executing endpoint 'NetCoreELK.Controllers.LogController.Index (NetCoreELK)' 
+[2019-07-21 11:39:15][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executing endpoint 'NetCoreELK.Controllers.LogController.Index (NetCoreELK)' 
+[2019-07-21 11:39:15][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Route matched with {action = "Index", controller = "Log"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller NetCoreELK.Controllers.LogController (NetCoreELK). 
+[2019-07-21 11:39:15][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Route matched with {action = "Index", controller = "Log"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller NetCoreELK.Controllers.LogController (NetCoreELK). 
+[2019-07-21 11:39:15][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Route matched with {action = "Index", controller = "Log"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller NetCoreELK.Controllers.LogController (NetCoreELK). 
+[2019-07-21 11:39:15][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executing action method NetCoreELK.Controllers.LogController.Index (NetCoreELK) - Validation state: Valid 
+[2019-07-21 11:39:15][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executing action method NetCoreELK.Controllers.LogController.Index (NetCoreELK) - Validation state: Valid 
+[2019-07-21 11:39:15][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executing action method NetCoreELK.Controllers.LogController.Index (NetCoreELK) - Validation state: Valid 
+[2019-07-21 11:39:15][Info] NetCoreELK.Controllers.LogController Logger is runnig 
+[2019-07-21 11:39:15][Info] NetCoreELK.Controllers.LogController Logger is runnig 
+[2019-07-21 11:39:15][Info] NetCoreELK.Controllers.LogController Logger is runnig 
+[2019-07-21 11:39:15][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action method NetCoreELK.Controllers.LogController.Index (NetCoreELK), returned result Microsoft.AspNetCore.Mvc.StatusCodeResult in 15.4467ms. 
+[2019-07-21 11:39:15][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action method NetCoreELK.Controllers.LogController.Index (NetCoreELK), returned result Microsoft.AspNetCore.Mvc.StatusCodeResult in 15.4467ms. 
+[2019-07-21 11:39:15][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action method NetCoreELK.Controllers.LogController.Index (NetCoreELK), returned result Microsoft.AspNetCore.Mvc.StatusCodeResult in 15.4467ms. 
+[2019-07-21 11:39:15][Info] Microsoft.AspNetCore.Mvc.StatusCodeResult Executing HttpStatusCodeResult, setting HTTP status code 202 
+[2019-07-21 11:39:15][Info] Microsoft.AspNetCore.Mvc.StatusCodeResult Executing HttpStatusCodeResult, setting HTTP status code 202 
+[2019-07-21 11:39:15][Info] Microsoft.AspNetCore.Mvc.StatusCodeResult Executing HttpStatusCodeResult, setting HTTP status code 202 
+[2019-07-21 11:39:15][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action NetCoreELK.Controllers.LogController.Index (NetCoreELK) in 37.7473ms 
+[2019-07-21 11:39:15][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action NetCoreELK.Controllers.LogController.Index (NetCoreELK) in 37.7473ms 
+[2019-07-21 11:39:15][Info] Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker Executed action NetCoreELK.Controllers.LogController.Index (NetCoreELK) in 37.7473ms 
+[2019-07-21 11:39:15][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executed endpoint 'NetCoreELK.Controllers.LogController.Index (NetCoreELK)' 
+[2019-07-21 11:39:15][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executed endpoint 'NetCoreELK.Controllers.LogController.Index (NetCoreELK)' 
+[2019-07-21 11:39:15][Info] Microsoft.AspNetCore.Routing.EndpointMiddleware Executed endpoint 'NetCoreELK.Controllers.LogController.Index (NetCoreELK)' 
+[2019-07-21 11:39:15][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 82.1197ms 202  
+[2019-07-21 11:39:15][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 82.1197ms 202  
+[2019-07-21 11:39:15][Info] Microsoft.AspNetCore.Hosting.Internal.WebHost Request finished in 82.1197ms 202  
