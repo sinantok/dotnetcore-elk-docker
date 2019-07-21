@@ -1,0 +1,14 @@
+C:\Users\sinan.tok\source\repos\NetCoreELK\NetCoreELK\bin\Debug\netcoreapp2.2\NetCoreELK.deps.json
+C:\Users\sinan.tok\source\repos\NetCoreELK\NetCoreELK\bin\Debug\netcoreapp2.2\NetCoreELK.runtimeconfig.json
+C:\Users\sinan.tok\source\repos\NetCoreELK\NetCoreELK\bin\Debug\netcoreapp2.2\NetCoreELK.runtimeconfig.dev.json
+C:\Users\sinan.tok\source\repos\NetCoreELK\NetCoreELK\bin\Debug\netcoreapp2.2\NetCoreELK.dll
+C:\Users\sinan.tok\source\repos\NetCoreELK\NetCoreELK\obj\Debug\netcoreapp2.2\NetCoreELK.csprojAssemblyReference.cache
+C:\Users\sinan.tok\source\repos\NetCoreELK\NetCoreELK\obj\Debug\netcoreapp2.2\NetCoreELK.csproj.CoreCompileInputs.cache
+C:\Users\sinan.tok\source\repos\NetCoreELK\NetCoreELK\obj\Debug\netcoreapp2.2\NetCoreELK.RazorAssemblyInfo.cache
+C:\Users\sinan.tok\source\repos\NetCoreELK\NetCoreELK\obj\Debug\netcoreapp2.2\NetCoreELK.RazorAssemblyInfo.cs
+C:\Users\sinan.tok\source\repos\NetCoreELK\NetCoreELK\obj\Debug\netcoreapp2.2\NetCoreELK.AssemblyInfoInputs.cache
+C:\Users\sinan.tok\source\repos\NetCoreELK\NetCoreELK\obj\Debug\netcoreapp2.2\NetCoreELK.AssemblyInfo.cs
+C:\Users\sinan.tok\source\repos\NetCoreELK\NetCoreELK\obj\Debug\netcoreapp2.2\NetCoreELK.RazorTargetAssemblyInfo.cache
+C:\Users\sinan.tok\source\repos\NetCoreELK\NetCoreELK\bin\Debug\netcoreapp2.2\NetCoreELK.pdb
+C:\Users\sinan.tok\source\repos\NetCoreELK\NetCoreELK\obj\Debug\netcoreapp2.2\NetCoreELK.dll
+C:\Users\sinan.tok\source\repos\NetCoreELK\NetCoreELK\obj\Debug\netcoreapp2.2\NetCoreELK.pdb
